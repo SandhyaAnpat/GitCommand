@@ -8,3 +8,9 @@ Name: Jane Smith
 Email: jane.smith@example.com
 Phone: +1987654321
 
+Version 1.0 Release Notes:
+
+- Added login feature.
+- Implemented user profile functionality.
+- Bug fixes and performance improvements.
+
